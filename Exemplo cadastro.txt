@@ -1,0 +1,30 @@
+1Inf22118Angelina Durigan     6.2 8.8 6.510.0
+1Inf23124Daniel Dorigan       7.610.010.0 2.3
+2Inf22123Joao Alberto         9.510.0 5.0 9.9
+2Enf22199Alexandre Guizo      6.0 5.0 3.0 3.5
+2Inf22765Pedro Alberto       10.010.010.010.0
+3Inf21765Maria Garibaldi      0.910.0 9.5 4.3
+1Ele23111Carlos Eduardo       2.0 2.2 4.0 3.5
+1TA 23119Isabele Buene        6.5 5.010.0 4.2
+1TA 23067Manoel Gomes         6.0 4.1 9.2 4.1
+1Inf23122Ana Clara Martin     4.3 6.3 7.8 8.9
+1Inf23612Eduarda Castilho     5.3 4.9 5.0 4.8
+1Inf23144Kaua Soares          5.0 6.0 5.0 4.8
+1Inf23232Sergio almeida       4.0 4.5 5.0 0.8
+1Inf23582Yasmin Victoria Lope 6.0 7.0 5.0 5.0
+1Inf23999Aldair Silveira      2.0 3.0 3.0 3.5
+2Inf22131Gabriel Grabalos     9.8 9.510.0 9.9
+1Inf23121Aldo Souza           7.0 7.0 7.5 7.0
+1Inf23127Emanuelle Marques da 5.0 6.0 5.0 9.0
+1Inf23139Joao Pedro Bertaglia 7.0 8.2 7.8 8.1
+1Inf23151Miguel Rybaltowsky  10.010.010.010.0
+1Inf23132Giovane Lidorio      8.0 8.6 7.8 7.0
+1Inf23911Ricardo Almeida Seij 2.0 2.9 4.0 1.7
+1Inf23987Marcela Alcantra Lim 2.4 3.2 4.0 4.2
+1Inf23972Stefano              3.0 3.0 1.0 0.0
+1Inf23137Isabelle Martins Tav 6.7 6.3 7.0 7.0
+1Inf23333Helena Isaena        1.0 2.0 2.9 4.0
+1Inf23129Joana Limeira        1.0 2.0 2.0 5.0
+1Inf23135Ion Mateus Nunes    10.0 9.9 0.010.0
+1Inf23065Joao Pedro Elias     3.0 2.0 3.0 3.7
+1Inf23578Arthur Gama Jorge    4.4 5.3 5.3 5.1
