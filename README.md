@@ -17,7 +17,7 @@ Estatísticas de todos alunos cadastrados como média hârmonica e média geomé
 
 <h1>Conteúdos utilizadas no programa</h1>
 Seletor repetitivo <br><br>
-Operações matemáticos para calculo de diferente estatísticas <br><br>
+Operações matemáticas para calculo de diferente estatísticas <br><br>
 Instanciação de diferentes arquivos.py <br><br>
 Biblioteca Tkinter para a abertura de janelas de seleção de arquivo  <br><br>
 Métodos property e setter para apenas permitir o cadastramento de dados válidos  <br><br>
